@@ -1,0 +1,10 @@
+.intro__text {
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 163%;
+    padding-bottom: 32px;
+    align-self: flex-start;
+    width: 70%;
+    margin: 0;
+}

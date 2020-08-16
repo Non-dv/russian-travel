@@ -1,0 +1,19 @@
+.intro__list {
+    margin: 0;
+    padding: 0 0 92px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__list {
+        padding-bottom: 88px;
+    }
+} 
+
+@media screen and (max-width: 425px) {
+    .intro__list {
+        padding-bottom: 64px;
+    }
+}

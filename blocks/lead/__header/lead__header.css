@@ -1,0 +1,25 @@
+.lead__header {
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 104%;
+    max-width: 720px;
+    text-align: center;
+    margin: 0;
+    padding: 56px 0 32px;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__header {
+        padding-top: 48px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .lead__header {
+        font-size: 40px;
+        line-height: 1.1;
+        padding-bottom: 16px;
+        max-width: 425px;
+    }
+}
