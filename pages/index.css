@@ -32,8 +32,6 @@
 
 @import url("../blocks/intro/__list-item/intro__list-item.css");
 
-@import url("../blocks/intro/__list-number/intro__list-number.css");
-
 @import url("../blocks/photo-grid/photo-grid.css");
 
 @import url("../blocks/photo-grid/__item/photo-grid__item.css");
@@ -55,8 +53,6 @@
 @import url("../blocks/place/__paragraph/place__paragraph.css");
 
 @import url("../blocks/cover/cover.css");
-
-@import url("../blocks/cover/__background/cover__background.css");
 
 @import url("../blocks/cover/__overlay/cover__overlay.css");
 
