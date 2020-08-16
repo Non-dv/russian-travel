@@ -4,7 +4,19 @@
     font-size: 16px;
     line-height: 163%;
     padding-bottom: 32px;
-    align-self: flex-start;
     width: 70%;
     margin: 0;
+}
+
+@media screen and (max-width: 928px) {
+    .intro__text {
+        min-height: 209px;
+        min-width: 720px;
+    }
+}
+
+@media screen and (max-width: 745px) {
+    .intro__text {
+        min-width: 288px;
+    }
 }

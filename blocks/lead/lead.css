@@ -7,13 +7,13 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .lead__image {
+    .lead {
         max-width: 928px;
     }
 }
 
 @media screen and (max-width: 690px) {
-    .lead__header {
+    .lead {
         max-width: 425px;
     }
 }

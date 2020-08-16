@@ -1,0 +1,7 @@
+.header__lang-link_value_ru {
+    margin: 0;
+}
+
+.header__lang-link_value_ru:lang(ru) {
+    text-decoration: underline;
+}
