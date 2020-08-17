@@ -1,0 +1,7 @@
+.header__lang-link_active:first-child:lang(ru) {
+    text-decoration: underline;
+}
+
+.header__lang-link_active:last-child:lang(en) {
+    text-decoration: underline;
+}
